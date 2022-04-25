@@ -9,7 +9,7 @@ import styles from "./styles.module.css";
 const features = [
   {
     title: <>Getting Started</>,
-    imageUrl: "img/getting-started.svg",
+    imageUrl: "img/home/getting-started.svg",
     description: (
       <>
         Get introduced to Rise Nutrition&apos;s components and software solutions, jump off to other
@@ -20,7 +20,7 @@ const features = [
   },
   {
     title: <>Mobile App</>,
-    imageUrl: "img/sdks-samples.svg",
+    imageUrl: "img/home/mobile.svg",
     description: (
       <>
         As an athlete, learn how to navigate our mobile application to track your meals, trainings,
@@ -31,7 +31,7 @@ const features = [
   },
   {
     title: <>Web Dashboard</>,
-    imageUrl: "img/standard-compliance.svg",
+    imageUrl: "img/home/dashboard.svg",
     description: (
       <>
         As a coach, dietitians, or other team staff member, the Rise Nutrition web dashboard is
