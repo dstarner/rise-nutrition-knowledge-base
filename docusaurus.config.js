@@ -14,15 +14,6 @@ const config = {
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
 
-  plugins: [
-    [
-      "@docusaurus/plugin-sitemap",
-      {
-        changefreq: "weekly",
-        priority: 0.5,
-      },
-    ],
-  ],
   presets: [
     [
       "classic",
@@ -35,6 +26,10 @@ const config = {
         },
         theme: {
           customCss: require.resolve("./src/css/theme.css"),
+        },
+        sitemap: {
+          changefreq: "weekly",
+          priority: 0.5,
         },
       }),
     ],

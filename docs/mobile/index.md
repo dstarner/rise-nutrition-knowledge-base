@@ -24,4 +24,4 @@ medical staff can then view on the [Team Web Dashboard][dashboard].
 TODO: add more here
 
 [beta]: https://en.wikipedia.org/wiki/Software_release_life_cycle#Beta
-[dashboard]: /dashboard/intro
+[dashboard]: /docs/dashboard

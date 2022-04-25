@@ -75,13 +75,13 @@ function Home() {
           <div className={styles.buttons}>
             <Link
               className={classnames("button cta-btn button--outline button--primary button--lg", styles.getStarted)}
-              to={useBaseUrl("docs/getting-started/index")}
+              to={useBaseUrl("docs")}
             >
               <i className="feather icon-arrow-right"></i> Get started
             </Link>
             <Link
               className={classnames("button cta-btn button--outline button--success button--lg", styles.getStarted)}
-              to={useBaseUrl("docs/sdks-samples/index")}
+              href="https://app.risenutrition.org"
             >
               <i className="feather icon-layout"></i> Explore Dashboard
             </Link>
