@@ -157,7 +157,10 @@ const config = {
         src: "img/stacked-logo.svg",
         href: "https://risenutrition.org",
       },
-      copyright: `Copyright © ${new Date().getFullYear()} Rise Nutrition. All rights reserved.`,
+      copyright: `
+        Copyright © ${new Date().getFullYear()} Rise Nutrition. All rights reserved.<br/>
+        <span style="font-size: 13px;">Homepage illustrations from&nbsp;<a href="https://storyset.com">StorySet<a/></span>
+      `,
     },
   },
 };
