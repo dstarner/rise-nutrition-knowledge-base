@@ -35,7 +35,7 @@ const features = [
     description: (
       <>
         As a coach, dietitians, or other team staff member, the Rise Nutrition web dashboard is
-        your tooling to get access into your team&apso;s nutrition, training, and injury statistics.
+        your tooling to get access into your team&apos;s nutrition, training, and injury statistics.
       </>
     ),
     pageUrl: "docs/dashboard",

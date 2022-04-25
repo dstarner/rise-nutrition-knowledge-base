@@ -3,7 +3,7 @@
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Rise Nutrition Documentation",
+  title: "Rise Nutrition Knowledge Base",
   tagline: "Providing the tools to gain insights into athlete diet and exercise to maximize performance.",
   url: "https://docs.risenutrition.org/",
   baseUrl: "/",
@@ -81,6 +81,11 @@ const config = {
           to: "docs/mobile",
           label: "Mobile App",
           position: "left",
+        },
+        {
+          href: "https://forum.risenutrition.org/",
+          label: "Forum",
+          position: "right",
         },
         {
           href: "https://app.risenutrition.org/",
