@@ -8,7 +8,7 @@ sidebar_position: 4
 
 The Athlete Mobile Application is currently in a **[beta-level][beta] release state**, and we are
 working closely with our existing partners to build out our initial feature set. If you are interested
-in participating through this beta state, please [reach out to us](https://risenutrition.org/contact),
+in participating through this beta state, please [reach out to us][contact],
 but know that the application is not generally-available yet.
 
 :::
@@ -24,4 +24,5 @@ medical staff can then view on the [Team Web Dashboard][dashboard].
 TODO: add more here
 
 [beta]: https://en.wikipedia.org/wiki/Software_release_life_cycle#Beta
+[contact]: /docs#feedback--assistance
 [dashboard]: /docs/dashboard
