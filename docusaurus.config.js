@@ -110,11 +110,11 @@ const config = {
             },
             {
               label: "Mobile App",
-              to: "docs/dashboard",
+              to: "docs/mobile",
             },
             {
               label: "Web Dashboard",
-              href: "docs/mobile",
+              href: "docs/dashboard",
             },
           ],
         },
