@@ -1,0 +1,155 @@
+---
+sidebar_label: Meals
+---
+
+import ImageStepper from "../../src/components/ImageStepper";
+
+# Meal Management via the Dashboard
+
+A **Meal** in Rise Nutrition tracks what foods an athlete ate, how much, and when the items were
+consumed. Each meal then has a comprehensive macro- and micro-nutrient breakdown process that gives
+full insight into how healthy the athlete's meal was.
+
+## Viewing an Athlete's Meals
+
+<ImageStepper>
+  <ImageStepper.Step
+    title="Search for User"
+    imgSrc="/img/docs/dashboard/search-user.png"
+    imgCaption="Search and select the desired user"
+  >
+
+Use the search bar on the top of the dashboard home page to lookup the athlete you wish to
+notify.
+
+  </ImageStepper.Step>
+  <ImageStepper.Step
+    title="View Meals Panel"
+    imgSrc="/img/docs/dashboard/meals/MealsPanel.png"
+    imgCaption="View the meals panel to see tracked items"
+  >
+
+On the athlete's details screen, locate the **Meals Panel** that looks like the image below. Note
+that you can toggle through the dates by clicking the left and right arrows on the panel, or you
+can select the date itself which will open up a calendar view to be selected.
+
+  </ImageStepper.Step>
+</ImageStepper>
+
+## Marking a Meal as Skipped
+
+Marking a meal as skipped informs our system and the team's staff members that the user either
+purposefully or accidentally did not eat anything for the given meal type.
+
+<ImageStepper>
+  <ImageStepper.Step
+    title="View Meals Panel"
+    imgSrc="/img/docs/dashboard/meals/MealsPanel.png"
+    imgCaption="View the meals panel to see tracked items"
+  >
+
+On the [athlete's details screen](#viewing-an-athletes-meals), locate the **Meals Panel** that looks
+like the image below. Toggle to the date of the skipped meal by clicking the left and right
+arrows on the panel, or you can select the date itself which will open up a calendar view to be selected.
+
+  </ImageStepper.Step>
+  <ImageStepper.Step
+    title="Skip the Meal"
+    imgSrc="/img/docs/dashboard/meals/SkipMeal.png"
+    imgCaption="Select the 'Skip' button for the meal variant"
+  >
+
+Once on the correct date, click the **Skip** button for the meal variant that the athlete has
+elected to mark as skipped. This will save and refresh the meals, which will then show the meal
+as being skipped.
+
+  </ImageStepper.Step>
+</ImageStepper>
+
+## Manually Tracking a Meal for an Athlete
+
+While it is up to the athlete in most cases to track their meals, sometimes it is important to
+have a staff member manually add/edit the meals.
+
+<ImageStepper>
+  <ImageStepper.Step
+    title="View Meals Panel"
+    imgSrc="/img/docs/dashboard/meals/MealsPanel.png"
+    imgCaption="View the meals panel to see tracked items"
+  >
+
+On the [athlete's details screen](#viewing-an-athletes-meals), locate the **Meals Panel** that looks
+like the image below. Toggle to the date of the skipped meal by clicking the left and right
+arrows on the panel, or you can select the date itself which will open up a calendar view to be selected.
+
+  </ImageStepper.Step>
+  <ImageStepper.Step
+    title="Add the Meal"
+    imgSrc="/img/docs/dashboard/meals/AddMealButton.png"
+    imgCaption="Select the 'Add' button"
+  >
+
+Select the **+** (Add) button on the top of the meal panel to pull up the meal tracking dialog.
+
+  </ImageStepper.Step>
+  <ImageStepper.Step
+    title="Overview Details"
+    imgSrc="/img/docs/dashboard/meals/MealAddOverview.png"
+    imgCaption="Provide the variant and time consumed"
+  >
+
+Once the dialog is open, it will prompt you for the meal overview details. This includes the variant -
+_Breakfast_, _Lunch_, _Dinner_ etc. - and the time consumed. If the meal was skipped, then toggle off
+the switch before saving. You can select the _Calendar icon_ for a more user friendly date &amp; time
+input.
+
+  </ImageStepper.Step>
+  <ImageStepper.Step
+    title="Food Details"
+    imgSrc="/img/docs/dashboard/meals/MealDetails.png"
+    imgCaption="Provide the foods consumed"
+  >
+
+Once the overview is provided, you can begin searching for individual food items that were
+consumed. Once you select one, it will appear in a list under the search bar. For each item,
+you can select the portion size and the quantity consumed of that portion size.
+
+If the portion sizes do not work for your meal case, then you can select the _Beaker Icon_ to
+provide a custom portion size that will be used instead.
+
+  </ImageStepper.Step>
+</ImageStepper>
+
+## Notifying an Athlete to Track a Meal
+
+:::warning
+
+The meal notification feature is still experimental and has some bugs associated with it. We
+will polish up this feature at our earliest convenience.
+
+:::
+
+It is understood that you will most likely be working with many athletes across your team, which
+makes it difficult if you have to manually input their meals for them every time. Rise Nutrition
+will automatically ask athletes to track their meals are common intervals, but it is also possible
+to notify a user manually to track a meal, just in case their avoid our automated notifications.
+
+:::info
+
+Note that you can only remind an athlete to track a meal from the current or previous day, in
+order to ensure correctness.
+
+:::
+
+<ImageStepper>
+  <ImageStepper.Step
+    title="Search for User"
+    imgSrc="/img/docs/dashboard/search-user.png"
+    imgCaption="Search and select the desired user"
+  >
+
+Use the search bar on the top of the dashboard home page to lookup the athlete you wish to
+notify.
+
+  </ImageStepper.Step>
+</ImageStepper>
