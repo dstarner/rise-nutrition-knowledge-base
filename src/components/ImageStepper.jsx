@@ -1,3 +1,4 @@
+/* eslint-disable react/display-name */
 import React from "react";
 import { useThemeConfig } from "@docusaurus/theme-common";
 
@@ -17,7 +18,13 @@ function ImageStepper({ children, defaultStep = 0 }) {
   };
 
   return (
-    <div style={{ border: `1px solid ${borderColor}`, borderRadius: "12px", overflow: "hidden" }}>
+    <div style={{
+      border: `1px solid ${borderColor}`,
+      borderRadius: "12px",
+      marginTop: '12px',
+      marginBottom: '12px',
+      overflow: "hidden" }}
+    >
       <div
         style={{
           display: "flex",

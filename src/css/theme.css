@@ -121,9 +121,9 @@ figcaption {
   color: var(--ifm-menu-color);
 }
 
-figcaption::before {
-  content: "🔎";
-}
+/* figcaption::before {
+  content: "🔎 ";
+} */
 
 footer .footer__link-item {
   opacity: 0.5;
