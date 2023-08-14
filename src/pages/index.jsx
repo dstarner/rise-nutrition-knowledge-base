@@ -13,7 +13,7 @@ const features = [
     description: (
       <>
         Get introduced to Rise Nutrition&apos;s components and software solutions, jump off to other
-        parts of the documentation, and invite team members.
+        parts of the documentation, and invite team members. (test)
       </>
     ),
     pageUrl: "docs",
