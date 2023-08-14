@@ -46,6 +46,16 @@ const features = [
       </>
     ),
     pageUrl: "docs/tips",
+  },
+  {
+    title: <>Content Library</>,
+    imageUrl: "img/home/getting-started.svg",
+    description: (
+      <>
+        Check out the Rise Nutrition content library to view vidoes and material on nutrition, performance, injury prevention, sports psychology, and so much more!
+      </>
+    ),
+    pageUrl: "docs/tips",
   }
 ];
 
