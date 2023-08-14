@@ -12,7 +12,7 @@ const features = [
     imageUrl: "img/home/getting-started.svg",
     description: (
       <>
-        Get started with the Fuel to Rise^TM^ platform. Learn what the platform has to offer, invite team members, and jump to other parts of the documentation.
+        Get started with the Fuel to Rise<sup>TM</sup> platform. Learn what the platform has to offer, invite team members, and jump to other parts of the documentation.
       </>
     ),
     pageUrl: "docs",
@@ -63,7 +63,7 @@ function Home() {
   return (
     <Layout
       title="Home"
-      description="Providing the tools to gain insights into athlete diet and exercise to maximize performance."
+      description="Providing data-driven nutrition for optimized performance."
     >
       <header className={classnames("hero hero--secondary", styles.heroBanner)}>
         <div className="container">
