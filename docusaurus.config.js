@@ -4,7 +4,7 @@
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Rise Nutrition Knowledge Base",
-  tagline: "Providing the tools to gain insights into athlete diet and exercise to maximize performance.",
+  tagline: "Providing data-driven nutrition for optimized performance.",
   url: "https://docs.risenutrition.org/",
   baseUrl: "/",
   favicon: "img/favicon.ico",
