@@ -38,7 +38,7 @@ const features = [
     pageUrl: "docs/dashboard",
   },
   {
-    title: <>Tips &amp; Tricks</>,
+    title: <>Tips &amp; FAQs</>,
     imageUrl: "img/home/getting-started.svg",
     description: (
       <>
