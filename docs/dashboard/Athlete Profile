@@ -1,0 +1,13 @@
+---
+sidebar_label: Athlete Profile
+---
+
+import ImageStepper from "../../src/components/ImageStepper";
+
+
+# Athlete Profile
+
+The Athlete Profile page is where you can manage and view all information and features about an individual athlete. To navigate to the profile of a particular athlete, select the athlete’s name from the Athlete Directory.
+
+
+## Managing Athlete
