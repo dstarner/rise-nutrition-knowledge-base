@@ -37,6 +37,16 @@ const features = [
     ),
     pageUrl: "docs/dashboard",
   },
+  {
+    title: <>Tips &amp; Tricks</>,
+    imageUrl: "img/home/getting-started.svg",
+    description: (
+      <>
+        Check out tips and FAQs about features on the mobile app and web dashboard. 
+      </>
+    ),
+    pageUrl: "docs/tips",
+  }
 ];
 
 function Feature({ imageUrl, title, description, pageUrl }) {
