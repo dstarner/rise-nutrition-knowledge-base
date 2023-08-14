@@ -12,8 +12,7 @@ const features = [
     imageUrl: "img/home/getting-started.svg",
     description: (
       <>
-        Get introduced to Rise Nutrition&apos;s components and software solutions, jump off to other
-        parts of the documentation, and invite team members. (test)
+        Get started with the Fuel to Rise^TM^ platform. Learn what the platform has to offer, invite team members, and jump to other parts of the documentation.
       </>
     ),
     pageUrl: "docs",
@@ -23,8 +22,7 @@ const features = [
     imageUrl: "img/home/mobile.svg",
     description: (
       <>
-        As an athlete, learn how to navigate our mobile application to track your meals, trainings,
-        and injuries to help your coaches and dietitians get the most of your lifestyle.
+        As an athlete, learn how to navigate our mobile application to track your meals, trainings, injuries, and get valueable nutrition and performance insights.
       </>
     ),
     pageUrl: "docs/mobile",
@@ -34,8 +32,7 @@ const features = [
     imageUrl: "img/home/dashboard.svg",
     description: (
       <>
-        As a coach, dietitians, or other team staff member, the Rise Nutrition web dashboard is
-        your tooling to get access into your team&apos;s nutrition, training, and injury statistics.
+        As a coach, dietitians, or other team staff member, the web dashboard is the place you can monitor the nutrition status of your athletes on an on-going basis. 
       </>
     ),
     pageUrl: "docs/dashboard",
