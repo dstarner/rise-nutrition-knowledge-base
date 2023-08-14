@@ -4,15 +4,6 @@ sidebar_position: 3
 
 # Team Web Dashboard
 
-:::info
-
-The Team Web Dashboard is currently in a **[beta-level][beta] release state**, and we are working closely with
-our existing partners to build out our initial feature set. If you are interested in participating
-through this beta state, please [reach out to us][contact], but know
-that the dashboard is not generally-available yet.
-
-:::
-
 The [Team Web Dashboard](https://app.risenutrition.org/) is our web-accessible dashboard that
 allows team administrators, coaches, medical staff, and registered dietitians to view and manage
 all aspects of their team and athletes.
