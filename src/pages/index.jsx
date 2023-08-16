@@ -55,7 +55,7 @@ const features = [
         Check out the Rise Nutrition content library to view vidoes and materials on nutrition, performance, injury prevention, sports psychology, and so much more!
       </>
     ),
-    pageUrl: "docs/tips",
+    pageUrl: "docs/content",
   },
   {
     title: <>User Support</>,
@@ -65,7 +65,7 @@ const features = [
        Having trouble or want to get in touch with the Rise team? Find all the resources you need here.
       </>
     ),
-    pageUrl: "docs/tips",
+    pageUrl: "docs/support",
   }
 ];
 
