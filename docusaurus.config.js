@@ -133,15 +133,15 @@ const config = {
             },
             {
               label: "Tips & FAQs",
-              to: "docs/tips",
+              href: "docs/tips",
             },
             {
               label: "Content Library",
-              to: "docs/content",
+              href: "docs/content",
             },
             {
               label: "User Support",
-              to: "docs/support",
+              href: "docs/support",
             },
           ],
         },
