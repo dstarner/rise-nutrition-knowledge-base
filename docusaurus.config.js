@@ -131,6 +131,18 @@ const config = {
               label: "Web Dashboard",
               href: "docs/dashboard",
             },
+            {
+              label: "Tips & FAQs",
+              to: "docs/tips",
+            },
+            {
+              label: "Content Library",
+              to: "docs/content",
+            },
+            {
+              label: "User Support",
+              to: "docs/support",
+            },
           ],
         },
         {
