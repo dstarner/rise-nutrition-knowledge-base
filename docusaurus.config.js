@@ -88,6 +88,16 @@ const config = {
           position: "left",
         },
         {
+          to: "docs/content",
+          label: "Content Library",
+          position: "left",
+        },
+        {
+          to: "docs/support",
+          label: "User Support",
+          position: "left",
+        },
+        {
           href: "https://forum.risenutrition.org/",
           label: "Forum",
           position: "right",
@@ -124,6 +134,14 @@ const config = {
             {
               label: "Tips & FAQs",
               href: "docs/tips",
+            },
+            {
+              label: "Content Library",
+              href: "docs/content",
+            },
+            {
+              label: "User Support",
+              href: "docs/support",
             },
           ],
         },
