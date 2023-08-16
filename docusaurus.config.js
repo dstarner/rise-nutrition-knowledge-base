@@ -83,6 +83,11 @@ const config = {
           position: "left",
         },
         {
+          to: "docs/tips",
+          label: "Tips & FAQs",
+          position: "left",
+        },
+        {
           href: "https://forum.risenutrition.org/",
           label: "Forum",
           position: "right",
@@ -115,6 +120,10 @@ const config = {
             {
               label: "Web Dashboard",
               href: "docs/dashboard",
+            },
+            {
+              label: "Tips & FAQs",
+              href: "docs/tips",
             },
           ],
         },
