@@ -68,7 +68,7 @@ const config = {
       },
       items: [
         {
-          to: "docs/getting-started",
+          to: "docs",
           label: "Getting Started",
           position: "left",
         },
@@ -121,7 +121,7 @@ const config = {
           items: [
             {
               label: "Getting Started",
-              to: "docs/getting-started",
+              to: "docs",
             },
             {
               label: "Mobile App",
