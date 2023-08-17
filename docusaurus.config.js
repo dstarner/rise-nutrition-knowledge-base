@@ -121,7 +121,7 @@ const config = {
           items: [
             {
               label: "Getting Started",
-              to: "docs",
+              to: "docs/getting-started",
             },
             {
               label: "Mobile App",
