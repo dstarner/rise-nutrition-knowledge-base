@@ -1,0 +1,11 @@
+---
+sidebar_label: Athlete Reports
+---
+
+import ImageStepper from "../../src/components/ImageStepper";
+
+# Athlete Reports
+
+---
+
+The very first task athlete users are prompted to complete when logging in to the mobile application for the first time is complete onboarding questionnaires. These questionnaires are used to set a baseline for an athlete
