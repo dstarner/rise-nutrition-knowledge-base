@@ -66,7 +66,7 @@ const features = [
       </>
     ),
     pageUrl: "docs/support",
-  }
+  },
   {
     title: <>Index</>,
     imageUrl: "img/home/getting-started.svg",
