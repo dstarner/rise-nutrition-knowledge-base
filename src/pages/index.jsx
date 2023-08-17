@@ -66,16 +66,6 @@ const features = [
       </>
     ),
     pageUrl: "docs/support",
-  },
-  {
-    title: <>Index</>,
-    imageUrl: "img/home/getting-started.svg",
-    description: (
-      <>
-       Having trouble or want to get in touch with the Rise team? Find all the resources you need here.
-      </>
-    ),
-    pageUrl: "docs/getting-started",
   }
 ];
 
