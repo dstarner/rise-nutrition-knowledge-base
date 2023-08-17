@@ -4,13 +4,13 @@ sidebar_position: 3
 
 # Team Web Dashboard
 
+---
+
 The [Team Web Dashboard](https://app.risenutrition.org/) is our web-accessible dashboard that
 allows team administrators, coaches, medical staff, and registered dietitians to view and manage
 all aspects of their team and athletes.
 
-TODO: add more here
 
----
 
 ## Web Dashboard Documentation
 
