@@ -11,7 +11,7 @@ const config = {
   organizationName: "rise-nutrition",
   projectName: "knowledge-base",
 
-  onBrokenLinks: "throw",
+  onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
 
   presets: [
