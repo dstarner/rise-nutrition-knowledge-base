@@ -49,7 +49,7 @@ const features = [
   },
   {
     title: <>Content Library</>,
-    imageUrl: "img/home/dashboard.svg",
+    imageUrl: "img/home/library.svg",
     description: (
       <>
         Check out the Rise Nutrition content library to view vidoes and materials on nutrition, performance, injury prevention, sports psychology, and so much more!
@@ -59,7 +59,7 @@ const features = [
   },
   {
     title: <>User Support</>,
-    imageUrl: "img/home/support.svg",
+    imageUrl: "img/home/tips.svg",
     description: (
       <>
      The Rise Nutrition team is here to help! Find the support that works for you. 
