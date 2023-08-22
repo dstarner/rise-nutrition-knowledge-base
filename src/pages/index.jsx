@@ -39,7 +39,7 @@ const features = [
   },
   {
     title: <>Tips &amp; FAQs</>,
-    imageUrl: "img/home/getting-started.svg",
+    imageUrl: "img/home/tips.svg",
     description: (
       <>
         Check out tips and FAQs about features on the mobile app and web dashboard. 
@@ -49,7 +49,7 @@ const features = [
   },
   {
     title: <>Content Library</>,
-    imageUrl: "img/home/getting-started.svg",
+    imageUrl: "img/home/library.svg",
     description: (
       <>
         Check out the Rise Nutrition content library to view vidoes and materials on nutrition, performance, injury prevention, sports psychology, and so much more!
@@ -59,7 +59,7 @@ const features = [
   },
   {
     title: <>User Support</>,
-    imageUrl: "img/home/getting-started.svg",
+    imageUrl: "img/home/support.svg",
     description: (
       <>
       Index
