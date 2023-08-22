@@ -62,7 +62,7 @@ const features = [
     imageUrl: "img/home/tips.svg",
     description: (
       <>
-     The Rise Nutrition team is here to help! Find the support that works for you. 
+     The Rise Nutrition team is here to help! Find the support you need in a way that works for you.
       </>
     ),
     pageUrl: "docs/support",
