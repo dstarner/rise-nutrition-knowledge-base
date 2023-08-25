@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+import ImageStepper from "../../src/components/ImageStepper";
+
 # Team Web Dashboard
 
 ---
