@@ -11,6 +11,17 @@ allows team administrators, coaches, medical staff, and registered dietitians to
 all aspects of their team and athletes.
 
 
+<ImageStepper>
+  <ImageStepper.Step
+    title="View"
+    imgSrc="/img/docs/dashboard/dashboard.png"
+    imgCaption="Team dashboard homepage"
+  >
+
+  </ImageStepper.Step>
+</ImageStepper>
+
+
 
 ## Web Dashboard Documentation
 
