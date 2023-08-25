@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+import ImageStepper from "../../src/components/ImageStepper";
+
 # Athlete Mobile Application
 
 ---
