@@ -16,11 +16,11 @@ without getting lost in the weeds.
 The application allows athletes to input critical information that their team dietitians, coaches, and
 medical staff can then view on the [Team Web Dashboard][dashboard].
 
-</ImageStepper.Step>
+<ImageStepper>
   <ImageStepper.Step
     title="View"
     imgSrc="/img/docs/mobile/getting-started/homepage.png"
-    
+    imgCaption="View of athlete homepage"
   >
 
   </ImageStepper.Step>
