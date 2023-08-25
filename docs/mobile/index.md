@@ -19,7 +19,7 @@ medical staff can then view on the [Team Web Dashboard][dashboard].
 <ImageStepper>
   <ImageStepper.Step
     title="View"
-    imgSrc="/img/docs/mobile/getting-started/homepage.png"
+    imgSrc="/img/docs/mobile/getting-started/homepage.jpg"
     imgCaption="View of athlete homepage"
   >
 
