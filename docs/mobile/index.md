@@ -16,7 +16,16 @@ without getting lost in the weeds.
 The application allows athletes to input critical information that their team dietitians, coaches, and
 medical staff can then view on the [Team Web Dashboard][dashboard].
 
-TODO: add more here
+</ImageStepper.Step>
+  <ImageStepper.Step
+    title="View"
+    imgSrc="/img/docs/mobile/getting-started/homepage.png"
+    
+  >
+
+  </ImageStepper.Step>
+</ImageStepper>
+
 
 [beta]: https://en.wikipedia.org/wiki/Software_release_life_cycle#Beta
 [contact]: /docs#feedback--assistance
